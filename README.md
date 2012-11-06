@@ -1,7 +1,6 @@
 # clojure-kata
 
-A Clojure library designed to ... well, that part is up to you.
-
+[http://obscure-garden-2085.herokuapp.com/](http://obscure-garden-2085.herokuapp.com/)
 ## Usage
 
 FIXME
